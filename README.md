@@ -6,3 +6,4 @@
 <b>Pandas</b>
 <br>
 <b>Matplotlib</b>
+<b>Power BI</b>
